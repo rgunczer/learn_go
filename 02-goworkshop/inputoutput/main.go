@@ -7,8 +7,8 @@ func main() {
 	const pi = 3.14
 	// var message string
 	// var message string = "Hello from Go"
-	// var message = "Hello from Go"
-	// var price = 3.44
+	var message = "Hello from Go"
+	var price = 3.44
 	// var price float32 = 3.44
 
 	message := "Hello from Go"
