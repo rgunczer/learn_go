@@ -1,1 +1,1 @@
-# learn_go
+# learn the go language
